@@ -1,3 +1,8 @@
+---
+Title: File #1
+Author: Kathryn Kremnitzer
+Date: October 9, 2017
+---
 # Section 1
 ## Section 2
 ### Section 3
