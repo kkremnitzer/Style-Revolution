@@ -1,5 +1,5 @@
 ---
-Title: File #1
+Title: File 1
 Author: Kathryn Kremnitzer
 Date: October 9, 2017
 ---
